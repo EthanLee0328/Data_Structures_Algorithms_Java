@@ -1,4 +1,4 @@
-package com.lee.data_structure;
+package com.lee.data_structure.sparse_array;
 
 public class SparseArray {
     public static void main(String[] args) {
